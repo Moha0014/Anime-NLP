@@ -1,5 +1,6 @@
 # Animne
-One big reason why anime is so much better than anything else is because of the strong, relatable characters. Anime characters have such a wide range of personalities and appearances to make them more realistic and relatable for real people.In this project will describe animation with different types in the anime, it helps to get summary of each anime for doing through: NLP, topic modeling, recommendation system and deployment. 
+Firstly, The word anime pronounced "ah-knee-may" is an abbreviation of the word animation. In Japan, the word is used to refer to all animation. However, outside of Japan, it has become the catch-all term for animation from Japan. Secondly, anime is popular thing in entire world because it has special and different characters to present story that make it interesting for the audience and also the anime present the story from Manga which have the real story from the writer.
+ 
 
 # Dataset Description:
 This data has *more than 19000 rows and 12 columns.*, This dataset can be found at [Kaggle](https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews).
@@ -31,27 +32,31 @@ This data has *more than 19000 rows and 12 columns.*, This dataset can be found 
  </tr>
 </table>
 
+## Workflow
+- Preprocessing text 
+- Topic Modelling
+- Recommendation system 
+- Deployment.
+
 
 
 
 
 ## Tools
-There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through Jupyter notebook.
+There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through PyCharm
+Visual Studio Code
+Flask
+Figma
+Heroku
+Mallet
+Colab
+(Python Packages)
+Zoom
+Google Drive
+Power Point
 
-## Algorithms
-- K-Nearest Neighbor
-- Logistic Regression
-- Decision Tree 
-- Random Forest 
-- Extreme Gradient Boost
-- Light Gradient Boost
-- Stacking
 
 
 
-## Questions that needs to be answered:
 
-- What is the most Income Category based on Attrition Flag?
-- Is the Education Level affect on the Income Category?
-- Does `Customer_Age` influnce the `Marital_Statu?
-- Which income category can be types with card category?
+
